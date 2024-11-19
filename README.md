@@ -28,7 +28,6 @@ In simple terms, it's like designing the blueprints of a building but for data s
 - **Security:** Access control, encryption, and compliance.
 - **Scalability:** Ensuring the system handles growth in both data size and frequency.
 
-> **📌 Insert Image:** A diagram comparing the components of building architecture with data architecture.
 
 ---
 
@@ -45,8 +44,6 @@ Operational architecture focuses on aligning data systems with business objectiv
 3. **Consider Data Scope and Frequency:**
    - Are you working with small, high-quality datasets or large-scale, unstructured data?
    - Is the data generated periodically (e.g., daily sales reports) or in real-time (e.g., streaming from IoT devices)?
-
-> **📌 Insert Image:** A workflow connecting business goals to data-driven solutions.
 
 ---
 
@@ -68,8 +65,6 @@ Technical architecture addresses the **"how"** by focusing on technologies and m
    - Choose based on your specific use case. Example:
      - **Raw, unstructured data?** Use a data lake.
      - **Structured data for analysis?** Use a data warehouse.
-
-> **📌 Insert Image:** A flowchart showcasing data ingestion, processing, and storage options for both real-time and batch systems.
 
 ---
 
@@ -133,6 +128,6 @@ The success of a data system depends on aligning it with both business goals and
 
 ---
 
-> **📌 Insert Image:** A motivational quote or infographic on the importance of adaptability in data engineering.
+
 
 Happy architecting! 🚀
